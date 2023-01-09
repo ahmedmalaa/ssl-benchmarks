@@ -340,3 +340,5 @@ If you want to cite the framework feel free to use this:
   year={2020}
 }
 ```
+
+Another option: https://keremturgutlu.github.io/self_supervised/
